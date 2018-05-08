@@ -1,0 +1,40 @@
+.ORG 00h 01h
+21h 00h E0h 
+C3h 06h 01h 
+C3h 06h 01h 
+.ORG 24h 00h
+DBh 00h 
+77h 
+23h 
+FEh 3Dh 
+CAh 00h 05h 
+C9h 
+.ORG 00h 05h
+44h 
+4Dh 
+0Bh 
+0Bh 
+0Ah 
+D6h 30h 
+5Fh 
+0Bh 
+0Ah 
+D6h 30h 
+57h 
+C3h 00h 06h 
+.ORG 00h 06h
+7Ah 
+83h 
+D6h 0Ah 
+F2h BCh 02h 
+C6h 3Ah 
+77h 
+23h 
+76h 
+.ORG BCh 02h
+36h 31h 
+23h 
+C6h 30h 
+77h 
+23h 
+76h 

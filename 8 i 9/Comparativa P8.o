@@ -1,0 +1,17 @@
+.ORG F4h 01h
+06h 00h 
+3Eh 00h 
+D3h 00h 
+CDh 58h 02h 
+3Eh 01h 
+C3h F8h 01h 
+.ORG 58h 02h
+F5h 
+04h 
+78h 
+FEh 05h 
+CAh BCh 02h 
+C3h 59h 02h 
+.ORG BCh 02h
+F1h 
+C9h 

@@ -1,0 +1,12 @@
+.DATA 50h 00h
+2Dh 
+03h 
+.ORG 00h 02h
+26h 00h 
+2Eh 50h 
+7Eh 
+23h 
+4Eh 
+81h 
+77h 
+76h 
